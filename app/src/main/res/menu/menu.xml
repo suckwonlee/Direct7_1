@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_rotation" android:title="그림회전"></item>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/item_seraph" android:title="세라프 기지"></item>
+        <item android:id="@+id/item_spear" android:title="우주선"></item>
+        <item android:id="@+id/auir" android:title="아이어"></item>
+    </group>
+</menu>
